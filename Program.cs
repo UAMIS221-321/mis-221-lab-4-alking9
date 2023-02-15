@@ -6,9 +6,9 @@ System.Console.WriteLine("Hello! Select one of the options below to start the pr
 // Menu Method
 static void DisplayMainMenu()
 {
-    System.Console.WriteLine("Press 1 to display the full triangle");
-    System.Console.WriteLine("Press 2 to display the partial triangle"); 
-    System.Console.WriteLine("Press 3 to exit");
+    System.Console.WriteLine("Enter 1 to display the full triangle");
+    System.Console.WriteLine("Enter 2 to display the partial triangle"); 
+    System.Console.WriteLine("Enter 3 to exit");
 }
 
 
